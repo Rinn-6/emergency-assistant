@@ -1,0 +1,9 @@
+django
+djangorestframework
+django-cors-headers
+gemini
+twilio
+channels_redis
+django-channels
+requests
+websockets
